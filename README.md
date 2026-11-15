@@ -23,5 +23,5 @@
 ## 📊 可视化与数据展示
 *(受限于网络环境，如果图片未能加载，请点击左侧文件列表查看 `数据预览截图.png` 和 `金融风控分析_可视化报表截图.png`)*
 
-![数据预览](https://raw.githubusercontent.com/hyooo-code/financial-risk-analysis/main/数据预览截图.png)
-![可视化报表](https://raw.githubusercontent.com/hyooo-code/financial-risk-analysis/main/金融风控分析_可视化报表截图.png)
+![数据预览](https://github.com/hyooo-code/financial-risk-analysis/raw/main/%E6%95%B0%E6%8D%AE%E9%A2%84%E8%A7%88%E6%88%AA%E5%9B%BE.png)
+![可视化报表](https://github.com/hyooo-code/financial-risk-analysis/raw/main/%E9%87%91%E8%9E%8D%E9%A3%8E%E6%8E%A7%E5%88%86%E6%9E%90_%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8A%A5%E8%A1%A8%E6%88%AA%E5%9B%BE.png)
